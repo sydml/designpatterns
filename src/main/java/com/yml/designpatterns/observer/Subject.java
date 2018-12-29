@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 生产者
+ *
  * @author Liuym
  * @date 2018/12/25 0025
  */

@@ -1,6 +1,8 @@
 package com.yml.designpatterns.composite;
 
 /**
+ * 组合模式，更像一个树形结构组合，公司和部门的关系，部门就是根据公司形成了一个树结构
+ *
  * @author Liuym
  * @date 2018/12/29 0029
  */
