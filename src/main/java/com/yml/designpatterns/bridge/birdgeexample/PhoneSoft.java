@@ -1,0 +1,9 @@
+package com.yml.designpatterns.bridge.birdgeexample;
+
+/**
+ * @author Liuym
+ * @date 2018/12/31 0031
+ */
+public abstract class PhoneSoft {
+    public abstract void run();
+}
