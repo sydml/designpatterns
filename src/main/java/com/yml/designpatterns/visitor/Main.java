@@ -1,6 +1,8 @@
 package com.yml.designpatterns.visitor;
 
 /**
+ * 访问者模式
+ *
  * @author Liuym
  * @date 2018/12/31 0031
  */
